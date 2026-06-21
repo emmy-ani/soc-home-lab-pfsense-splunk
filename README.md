@@ -58,7 +58,7 @@ This project focuses on designing and deploying a SOC lab environment from scrat
 ---
 
 ## 📂 Project Deliverables
-* **📄 Detailed Setup Documentation:** [View Full Lab Setup PDF](https://emmy-ani/soc-home-lab-pfsense-splunk/blob/main/Soc_Home_Lab.pdf)
+* **📄 Detailed Setup Documentation:** [View Full Lab Setup PDF](https://github.com/emmy-ani/soc-home-lab-pfsense-splunk/blob/main/Soc_Home_Lab.pdf)
   * *This report includes full virtual machine options, Netplan script parameters, verification commands, and configuration snapshots verifying the lab works perfectly.*
 
 ---
