@@ -58,7 +58,7 @@ This project focuses on designing and deploying a SOC lab environment from scrat
 ---
 
 ## 📂 Project Deliverables
-* **📄 Detailed Setup Documentation:** [View Full Lab Setup PDF](./soc-home-lab-pfsense-splunk/SOC_Home_Lab_Setup.pdf)
+* **📄 Detailed Setup Documentation:** [View Full Lab Setup PDF](SOC_Home_Lab_Setup.pdf)
   * *This report includes full virtual machine options, Netplan script parameters, verification commands, and configuration snapshots verifying the lab works perfectly.*
 
 ---
